@@ -28,7 +28,9 @@ namespace InClass5PT1
             {
                 Console.Write(output[i]);
             }
-
+            
+            //exit menu
+            Console.WriteLine("");
             Console.WriteLine("Press Any Key to Escape!");
             Console.ReadKey();
         }

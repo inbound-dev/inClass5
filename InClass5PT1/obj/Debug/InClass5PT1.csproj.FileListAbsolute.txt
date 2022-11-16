@@ -1,0 +1,8 @@
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\bin\Debug\InClass5PT1.exe.config
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\bin\Debug\InClass5PT1.exe
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\bin\Debug\InClass5PT1.pdb
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\obj\Debug\InClass5PT1.csproj.AssemblyReference.cache
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\obj\Debug\InClass5PT1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\obj\Debug\InClass5PT1.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\obj\Debug\InClass5PT1.exe
+C:\Users\jordan\Documents\GitHub\inClass5\InClass5PT1\obj\Debug\InClass5PT1.pdb
